@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-06-17T01:58:52.001Z",
- "currentIndex": 550,
+ "updatedAt": "2026-06-17T10:56:22.867Z",
+ "currentIndex": 551,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -13579,6 +13579,30 @@
    ],
    "shelfNos": [
     "BUI-001-2-1"
+   ]
+  },
+  "PKGI-02703962": {
+   "classifies": [
+    "ok"
+   ],
+   "note": "",
+   "color": "",
+   "size": "",
+   "name": "【2ショット撮影会応募用シリアルコード対象】My First Kick: 4th Mini Album (My First Trip Ver.)＜オンライン限定＞ (発売日: 2026年05月上旬) + '（特典あり)'",
+   "refUrl": "https://tower.jp/item/8018065?srsltid=AfmBOoqZvBRKRHtFpVBrZTotnHoczvbkNpzGNEihEMKxovaSD2_uSaSf",
+   "genTitle": "【新品未使用】My First Kick マイ ファースト キック 4th Mini Album My First Trip Ver. オンライン限定 2ショット撮影会応募シリアルコード対象 特典あり",
+   "genDesc": "【商品概要】\n━━━━━━━━━━━━━━━━━━━━\n商品名：My First Kick: 4th Mini Album (My First Trip Ver.)＜オンライン限定＞（2ショット撮影会応募用シリアルコード対象・特典あり）\nブランド / メーカー：My First Kick\nカラー：画像をご確認ください\nサイズ / 容量：公式サイトをご確認ください\n状態：新品・未使用\n━━━━━━━━━━━━━━━━━━━━\n【商品詳細】\nMy First Kickの4thミニアルバム「My First Trip Ver.」オンライン限定盤です。2ショット撮影会への応募が可能なシリアルコードが封入された特典付きの貴重な一枚。発売日は2026年05月上旬予定で、ファン必携のアイテムです。\n\n【コンディション・内容】\n新品・未使用品です。未開封の状態でお届けいたします。商品の詳細な状態については画像を優先してご確認ください。\n\n【付属品について】\n付属品は画像に写っているものが全てとなります。特典・シリアルコードの有無・状態については画像にてご確認ください。\n\n【お取引上のご注意】\n発送方法：佐川急便または日本郵便\n発送時期：2-3日以内\n※値下げ交渉・個別のご質問には対応しておりません。\n━━━━━━━━━━━━━━━━━━━━\nMy First Kick マイファーストキック 4th ミニアルバム My First Trip Ver. オンライン限定 シリアルコード 2ショット撮影会 特典 韓国 K-POP アルバム 人気 プレゼント ギフト\n━━━━━━━━━━━━━━━━━━━━\nよろしくお願いいたします。\n\n商品ID：PKGI-02703962",
+   "imageNames": [
+    "PKGI-02703962_1.jpg"
+   ],
+   "pkgiList": [
+    "PKGI-02703962"
+   ],
+   "bundlingIds": [
+    "PKG-01064726"
+   ],
+   "shelfNos": [
+    "BUJ-001-3-1"
    ]
   }
  }
