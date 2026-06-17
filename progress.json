@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-06-17T01:55:36.557Z",
- "currentIndex": 548,
+ "updatedAt": "2026-06-17T01:58:52.001Z",
+ "currentIndex": 550,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -13532,6 +13532,53 @@
    ],
    "shelfNos": [
     "ROI-001-1-1"
+   ]
+  },
+  "PKGI-02601538": {
+   "classifies": [
+    "ok"
+   ],
+   "note": "",
+   "color": "",
+   "size": "",
+   "name": "(OUCHI?｡??) ?お得な人気カラー3点セット?tsubu tsubu earcuff",
+   "refUrl": "https://minne.com/items/45023708",
+   "genTitle": "【新品未使用】OUCHI オウチ tsubu tsubu earcuff ツブツブ イヤーカフ 人気カラー3点セット clear silver écru レディース",
+   "genDesc": "【商品概要】\n━━━━━━━━━━━━━━━━━━━━\n商品名：tsubu tsubu earcuff お得な人気カラー3点セット\nブランド / メーカー：OUCHI（オウチ）\nカラー：tsubu tsubu clear（クリア）／tsubu tsubu silver（シルバー）／tsubu tsubu écru（エクリュ）\nサイズ / 容量：画像をご確認ください\n状態：新品・未使用\n━━━━━━━━━━━━━━━━━━━━\n【商品詳細】\nOUCHIの人気シリーズ「tsubu tsubu earcuff」の人気カラー3点セットです。小さなツブツブビーズをリング状に仕立てた繊細でかわいらしいデザインのイヤーカフで、クリア・シルバー・エクリュの3色がセットになっています。耳元にさりげないアクセントを加えてくれる上品なアクセサリーです。\n\n【コンディション・内容】\n新品・未使用品です。実際の色味や質感については添付画像を優先してご確認ください。モニター環境により色味が若干異なって見える場合がございます。\n\n【付属品について】\n画像に写っているものが全てとなります。元の販売時の付属品については保証いたしかねますので、あらかじめご了承ください。\n\n【お取引上のご注意】\n発送方法：佐川急便または日本郵便\n発送時期：2-3日以内\n※値下げ交渉・個別のご質問には対応しておりません。\n━━━━━━━━━━━━━━━━━━━━\nOUCHI オウチ tsubu tsubu イヤーカフ ツブツブ earcuff ビーズ アクセサリー レディース セット クリア シルバー エクリュ 耳飾り ハンドメイド ピアス 重ね付け minne プレゼント ギフト かわいい おしゃれ\n━━━━━━━━━━━━━━━━━━━━\nよろしくお願いいたします。\n\n商品ID：PKGI-02601538",
+   "imageNames": [
+    "PKGI-02601538_1.jpg",
+    "PKGI-02601538_2.jpg"
+   ],
+   "pkgiList": [
+    "PKGI-02601538"
+   ],
+   "bundlingIds": [
+    "BU-00981453"
+   ],
+   "shelfNos": [
+    "ROG-001-1-1"
+   ]
+  },
+  "PKGI-02590657": {
+   "classifies": [
+    "color"
+   ],
+   "note": "",
+   "color": "",
+   "size": "",
+   "name": "GLOSSY HONEY COUVERTURE LIP GLOSS",
+   "refUrl": "",
+   "genTitle": "",
+   "genDesc": "",
+   "imageNames": [],
+   "pkgiList": [
+    "PKGI-02590657"
+   ],
+   "bundlingIds": [
+    "PKG-01015486"
+   ],
+   "shelfNos": [
+    "BUI-001-2-1"
    ]
   }
  }
