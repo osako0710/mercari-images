@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-02T02:23:42.705Z",
- "currentIndex": 988,
+ "updatedAt": "2026-07-02T03:00:50.312Z",
+ "currentIndex": 22,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5466,11 +5466,11 @@
    ],
    "note": "",
    "color": "",
-   "size": "",
+   "size": "XL",
    "name": "■LIP CREAM_NIGHT RIDER MORE THAN FIGHT ZIP UP HOODIE■",
    "refUrl": "https://diskunion.net/punk/ct/detail/1009170535?srsltid=AfmBOop02fJtIY3nfT1pDN37RsvJQTzgsy6aQ08Ng_kL-MXh4GKlhOeR",
    "genTitle": "【新品未使用】LIP CREAM リップクリーム × MORE THAN FIGHT ZIP UP HOODIE ジップアップパーカー NIGHT RIDER ユニセックス",
-   "genDesc": "【商品概要】\n━━━━━━━━━━━━━━━━━━━━\n商品名：LIP CREAM NIGHT RIDER MORE THAN FIGHT ZIP UP HOODIE\nブランド / メーカー：LIP CREAM / MORE THAN FIGHT\nカラー：画像をご確認ください\nサイズ / 容量：公式サイトをご確認ください\n状態：新品・未使用\n━━━━━━━━━━━━━━━━━━━━\n【商品詳細】\nLIP CREAMとMORE THAN FIGHTによるコラボレーションジップアップパーカー「NIGHT RIDER」です。ストリートシーンで注目を集める両ブランドが手がけたコレクティブな一着で、独自のグラフィックとこだわりのシルエットが特徴です。デイリーユースはもちろん、コレクターアイテムとしても価値ある一品です。\n\n【コンディション・内容】\n新品・未使用品です。未開封または未着用の状態でお届けします。色味や細部については商品画像を優先してご確認ください。モニター環境により実際の色と若干異なる場合がございます。\n\n【付属品について】\n画像に写っているものが付属品の全てとなります。タグ類の有無など詳細は画像にてご確認ください。\n\n【お取引上のご注意】\n発送方法：佐川急便または日本郵便\n発送時期：2-3日以内\n※値下げ交渉・個別のご質問には対応しておりません。\n━━━━━━━━━━━━━━━━━━━━\nLIP CREAM リップクリーム MORE THAN FIGHT ジップアップ パーカー フーディー NIGHT RIDER コラボ ストリート スケート メンズ ユニセックス 男女兼用 人気 プレゼント ギフト フーデッド スウェット\n━━━━━━━━━━━━━━━━━━━━\nよろしくお願いいたします。\n\n商品ID：PKGI-02576651",
+   "genDesc": "【商品概要】\n━━━━━━━━━━━━━━━━━━━━\n商品名：LIP CREAM NIGHT RIDER MORE THAN FIGHT ZIP UP HOODIE\nブランド / メーカー：LIP CREAM / MORE THAN FIGHT\nカラー：画像をご確認ください\nサイズ / 容量：XL\n状態：新品・未使用\n━━━━━━━━━━━━━━━━━━━━\n【商品詳細】\nLIP CREAMとMORE THAN FIGHTによるコラボレーションジップアップパーカー「NIGHT RIDER」です。ストリートシーンで注目を集める両ブランドが手がけたコレクティブな一着で、独自のグラフィックとこだわりのシルエットが特徴です。デイリーユースはもちろん、コレクターアイテムとしても価値ある一品です。\n\n【コンディション・内容】\n新品・未使用品です。未開封または未着用の状態でお届けします。色味や細部については商品画像を優先してご確認ください。モニター環境により実際の色と若干異なる場合がございます。\n\n【付属品について】\n画像に写っているものが付属品の全てとなります。タグ類の有無など詳細は画像にてご確認ください。\n\n【お取引上のご注意】\n発送方法：佐川急便または日本郵便\n発送時期：2-3日以内\n※値下げ交渉・個別のご質問には対応しておりません。\n━━━━━━━━━━━━━━━━━━━━\nLIP CREAM リップクリーム MORE THAN FIGHT ジップアップ パーカー フーディー NIGHT RIDER コラボ ストリート スケート メンズ ユニセックス 男女兼用 人気 プレゼント ギフト フーデッド スウェット\n━━━━━━━━━━━━━━━━━━━━\nよろしくお願いいたします。\n\n商品ID：PKGI-02576651",
    "imageNames": [
     "PKGI-02576651_1.jpg",
     "PKGI-02576651_2.jpg"
@@ -9878,10 +9878,10 @@
     "size"
    ],
    "note": "",
-   "color": "",
-   "size": "",
+   "color": "ベージュ",
+   "size": "M",
    "name": "別注 SMU PT-38 SETUP 2TUCK WIDE PANTS",
-   "refUrl": "",
+   "refUrl": "https://www.daytona-park.com/item/1043311600062",
    "genTitle": "",
    "genDesc": "",
    "imageNames": [],
@@ -10337,9 +10337,12 @@
   },
   "PKGI-02558061": {
    "classifies": [
-    "used"
+    "used",
+    "color",
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "ページ無し、撮影要",
    "color": "",
    "size": "",
    "name": "長袖Tシャツ/XL/コットン/WHT【B】",
