@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-06T04:40:17.939Z",
- "currentIndex": 1101,
+ "updatedAt": "2026-07-06T04:44:15.329Z",
+ "currentIndex": 1023,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -27378,14 +27378,20 @@
     "color",
     "size"
    ],
-   "note": "",
+   "note": "どちらが白か黒かわからないので保留",
    "color": "",
    "size": "",
    "name": "パターンデザインソックス（R）(25-27cm)",
-   "refUrl": "",
+   "refUrl": "https://wego.jp/products/we22aw09-mg0002",
    "genTitle": "",
    "genDesc": "",
-   "imageNames": [],
+   "imageNames": [
+    "PKGI-02396328_1.jpg",
+    "PKGI-02396328_2.jpg",
+    "PKGI-02396328_3.jpg",
+    "PKGI-02396328_4.jpg",
+    "PKGI-02396328_5.jpg"
+   ],
    "pkgiList": [
     "PKGI-02396328",
     "PKGI-02396329"
