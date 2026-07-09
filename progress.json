@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-09T04:49:02.960Z",
- "currentIndex": 228,
+ "updatedAt": "2026-07-09T04:51:05.967Z",
+ "currentIndex": 229,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5834,9 +5834,9 @@
    "classifies": [
     "size"
    ],
-   "note": "",
+   "note": "ページなし、撮影要",
    "color": "",
-   "size": "",
+   "size": "L",
    "name": "MINI GT×LB Triple GTR Tee White",
    "refUrl": "",
    "genTitle": "",
