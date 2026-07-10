@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-10T03:00:54.340Z",
- "currentIndex": 129,
+ "updatedAt": "2026-07-10T03:06:25.887Z",
+ "currentIndex": 130,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -3362,10 +3362,9 @@
   "PKGI-02530761": {
    "classifies": [
     "used",
-    "color",
-    "size"
+    "other"
    ],
-   "note": "",
+   "note": "ページなし、撮影要",
    "color": "",
    "size": "",
    "name": "scarf/silk/ORN/whole pattern/ladies【B】",
