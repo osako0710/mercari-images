@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-10T07:08:55.717Z",
- "currentIndex": 629,
+ "updatedAt": "2026-07-10T07:15:01.720Z",
+ "currentIndex": 233,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5991,11 +5991,14 @@
   },
   "PKGI-02589499": {
    "classifies": [
-    "used"
+    "used",
+    "other",
+    "size",
+    "color"
    ],
-   "note": "",
-   "color": "",
-   "size": "",
+   "note": "ページなし、撮影要",
+   "color": "ライトグレー",
+   "size": "27㎝",
    "name": "OLD SKOOL 36 DX / Low-cut sneakers / 27cm / GRY / 721278【A】",
    "refUrl": "",
    "genTitle": "",
