@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-10T09:59:58.267Z",
- "currentIndex": 552,
+ "updatedAt": "2026-07-12T06:26:57.058Z",
+ "currentIndex": 7,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -159,7 +159,7 @@
    "classifies": [
     "color"
    ],
-   "note": "色確認",
+   "note": "撮影必須色確認",
    "color": "",
    "size": "",
    "name": "シェーブル 薄型二つ折り財布",
