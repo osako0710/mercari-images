@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-12T08:57:00.585Z",
- "currentIndex": 436,
+ "updatedAt": "2026-07-12T08:59:07.670Z",
+ "currentIndex": 1069,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -27250,7 +27250,7 @@
   },
   "PKGI-02621429": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "",
