@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-12T08:37:49.018Z",
- "currentIndex": 369,
+ "updatedAt": "2026-07-12T08:57:00.585Z",
+ "currentIndex": 436,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -11244,9 +11244,9 @@
     "color",
     "size"
    ],
-   "note": "",
-   "color": "",
-   "size": "",
+   "note": "ページなし撮影必須",
+   "color": "グレー",
+   "size": "XXL",
    "name": "GEMS TITANOTA Tシャツ",
    "refUrl": "",
    "genTitle": "",
