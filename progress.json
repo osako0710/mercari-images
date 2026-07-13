@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-13T03:34:05.381Z",
- "currentIndex": 732,
+ "updatedAt": "2026-07-13T03:35:52.465Z",
+ "currentIndex": 593,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -15303,7 +15303,7 @@
   },
   "PKGI-02676136": {
    "classifies": [
-    "other"
+    "ok"
    ],
    "note": "ブランド / メーカー：KADOKAWA（カドカワ）の部分確認要",
    "color": "",
