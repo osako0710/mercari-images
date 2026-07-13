@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-13T07:52:39.243Z",
- "currentIndex": 274,
+ "updatedAt": "2026-07-13T07:59:11.372Z",
+ "currentIndex": 814,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -20916,9 +20916,9 @@
     "color",
     "size"
    ],
-   "note": "",
-   "color": "",
-   "size": "",
+   "note": "ページなし撮影必須",
+   "color": "淡緑",
+   "size": "80",
    "name": "ベビー　ショートパンツ（80～95cm・Atelier Apricot）(バースデイ)【予約】",
    "refUrl": "",
    "genTitle": "",
