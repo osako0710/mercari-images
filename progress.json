@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-13T07:49:31.758Z",
- "currentIndex": 274,
+ "updatedAt": "2026-07-13T07:50:14.528Z",
+ "currentIndex": 199,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5138,8 +5138,8 @@
     "size"
    ],
    "note": "ページなし撮影必須",
-   "color": "",
-   "size": "",
+   "color": "ライトグレー",
+   "size": "38",
    "name": "〈SELECT〉スプリットラグランプルオーバー 610-25034",
    "refUrl": "",
    "genTitle": "",
