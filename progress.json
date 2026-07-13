@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-13T03:27:14.258Z",
- "currentIndex": 121,
+ "updatedAt": "2026-07-13T03:30:40.938Z",
+ "currentIndex": 556,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -14331,7 +14331,7 @@
   },
   "PKGI-02564061": {
    "classifies": [
-    "other"
+    "ok"
    ],
    "note": "ブランド / メーカー：八重山殖産　修正要",
    "color": "",
