@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-15T04:06:20.526Z",
- "currentIndex": 461,
+ "updatedAt": "2026-07-15T04:10:39.116Z",
+ "currentIndex": 858,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -22054,7 +22054,8 @@
   "PKGI-02616934": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
    "note": "ページなし撮影必須",
    "color": "",
