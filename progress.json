@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-15T08:00:08.733Z",
- "currentIndex": 11,
+ "updatedAt": "2026-07-15T08:05:25.377Z",
+ "currentIndex": 14,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -359,18 +359,34 @@
    ]
   },
   "PKGI-02582712": {
-   "classifies": [],
-   "note": "色確認",
-   "color": "",
-   "size": "",
+   "classifies": [
+    "color",
+    "size"
+   ],
+   "note": "",
+   "color": "ブラック",
+   "size": "2(M)",
    "name": "WEB限定【LOULOU WILLOUGHBY】LISAチェリープリント ボウタイブラウス",
-   "refUrl": "",
-   "genTitle": "",
-   "genDesc": "",
-   "imageNames": [],
-   "pkgiList": [],
-   "bundlingIds": [],
-   "shelfNos": []
+   "refUrl": "https://www.allureville.com/items/21261013150",
+   "genTitle": "【新品未使用】LOULOU WILLOUGHBY ルルウィロビー WEB限定 LISAチェリープリント ボウタイブラウス レディース ブラック サイズ2(M)",
+   "genDesc": "【商品概要】\n━━━━━━━━━━━━━━━━━━━━\n商品名：WEB限定【LOULOU WILLOUGHBY】LISAチェリープリント ボウタイブラウス\nブランド / メーカー：LOULOU WILLOUGHBY\nカラー：ブラック\nサイズ / 容量：2（M）\n状態：新品・未使用\n━━━━━━━━━━━━━━━━━━━━\n【商品詳細】\nLOULOU WILLOUGHBYのWEB限定アイテム、LISAチェリープリント ボウタイブラウスです。チェリーを散りばめた華やかなプリントと、エレガントなボウタイデザインが女性らしい印象を演出します。ブラックカラーでコーディネートに合わせやすく、上品かつ洗練されたスタイルを叶える一着です。\n\n【コンディション・内容】\n新品・未使用品です。未着用の状態でお届けいたします。商品の色味や細部については、画像を優先してご確認ください。モニターの環境により、実際の色と多少異なって見える場合がございます。\n\n【付属品について】\n付属品については画像に写っているものが全てとなります。不明な点は画像にてご確認ください。\n\n【お取引上のご注意】\n発送方法：佐川急便または日本郵便\n発送時期：2-3日以内\n※値下げ交渉・個別のご質問には対応しておりません。\n━━━━━━━━━━━━━━━━━━━━\nLOULOU WILLOUGHBY ルルウィロビー ボウタイブラウス チェリープリント WEB限定 レディース ブラウス プリント ブラック サイズ2 Mサイズ 上品 フェミニン 春夏 プレゼント ギフト allureville\n━━━━━━━━━━━━━━━━━━━━\nよろしくお願いいたします。\n\n商品ID：PKGI-02582712",
+   "imageNames": [
+    "PKGI-02582712_1.jpg",
+    "PKGI-02582712_2.jpg",
+    "PKGI-02582712_3.jpg",
+    "PKGI-02582712_4.jpg",
+    "PKGI-02582712_5.jpg",
+    "PKGI-02582712_6.jpg"
+   ],
+   "pkgiList": [
+    "PKGI-02582712"
+   ],
+   "bundlingIds": [
+    "PKG-01097366"
+   ],
+   "shelfNos": [
+    "RTG-006-1-1"
+   ]
   },
   "PKGI-02618972": {
    "classifies": [
