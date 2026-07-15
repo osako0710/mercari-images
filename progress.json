@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-15T02:41:24.152Z",
- "currentIndex": 860,
+ "updatedAt": "2026-07-15T02:44:04.850Z",
+ "currentIndex": 914,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -22066,8 +22066,8 @@
     "size"
    ],
    "note": "撮影必須",
-   "color": "ピンク",
-   "size": "90",
+   "color": "",
+   "size": "",
    "name": "ベビー　Ｔシャツ（80～90cm・RYOKKUMi ）(バースデイ)【予約】",
    "refUrl": "",
    "genTitle": "",
@@ -23413,8 +23413,8 @@
     "size"
    ],
    "note": "",
-   "color": "",
-   "size": "",
+   "color": "ピンク黒",
+   "size": "80",
    "name": "ベビー　パンツ（80～90cm・RYOKKUMi ）(バースデイ)【予約】",
    "refUrl": "",
    "genTitle": "",
