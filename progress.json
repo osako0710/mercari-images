@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-15T03:21:07.170Z",
- "currentIndex": 512,
+ "updatedAt": "2026-07-15T03:24:16.523Z",
+ "currentIndex": 741,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -19101,9 +19101,10 @@
   "PKGI-02303870": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "ページなし、撮影要",
    "color": "",
    "size": "",
    "name": "キッズ　ブラウス（110cm～130cm）(しまむら)【予約】",
