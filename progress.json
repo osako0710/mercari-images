@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-15T03:24:16.523Z",
- "currentIndex": 741,
+ "updatedAt": "2026-07-15T03:27:05.898Z",
+ "currentIndex": 230,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5967,11 +5967,12 @@
   },
   "PKGI-02603649": {
    "classifies": [
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "ページなし、撮影要",
    "color": "",
-   "size": "",
+   "size": "XL",
    "name": "スッパイマン×LB Kaizou Box Logo Tee Black",
    "refUrl": "",
    "genTitle": "",
