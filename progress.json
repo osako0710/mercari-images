@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-15T09:22:48.745Z",
- "currentIndex": 326,
+ "updatedAt": "2026-07-15T09:38:43.875Z",
+ "currentIndex": 315,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -8231,9 +8231,10 @@
   },
   "PKGI-02604898": {
    "classifies": [
-    "color"
+    "color",
+    "other"
    ],
-   "note": "縦積み、どっちの色も確認",
+   "note": "縦積み、どっちの色も確認要、保留\nBU-00982786は後期版",
    "color": "",
    "size": "",
    "name": "【3月中旬入荷予定】無線マウス トヨタ AE86 『頭文字D』藤原とうふ店(自家用)仕様 Bluetooth対応 スプリンタートレノ イニD Toyota",
