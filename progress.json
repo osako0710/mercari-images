@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-21T04:24:11.202Z",
- "currentIndex": 172,
+ "updatedAt": "2026-07-21T04:29:39.851Z",
+ "currentIndex": 183,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -4999,11 +4999,12 @@
   "PKGI-02060725": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
-   "color": "",
-   "size": "",
+   "note": "ページなし、撮影要",
+   "color": "レッド",
+   "size": "38",
    "name": "ラウンドトゥメッシュバレエシューズ",
    "refUrl": "",
    "genTitle": "",
