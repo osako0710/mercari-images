@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-21T10:03:23.621Z",
- "currentIndex": 155,
+ "updatedAt": "2026-07-23T02:18:48.533Z",
+ "currentIndex": 475,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -12840,11 +12840,9 @@
   },
   "PKGI-02233472": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
-   "note": "縦積みで色違い\nBU-00811460は2つある\nゴールド、シルバー",
+   "note": "縦積みで色違い\nBU-00811460は2つある/BU-00811457にも2つある\nゴールド×2、シルバー×2",
    "color": "",
    "size": "",
    "name": "ロングチャームピアス",
