@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:55:58.229Z",
- "currentIndex": 583,
+ "updatedAt": "2026-07-26T08:56:17.639Z",
+ "currentIndex": 420,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -11646,7 +11646,7 @@
   },
   "PKGI-02561043": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "キャンディーピンク",
