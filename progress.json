@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T09:23:49.528Z",
- "currentIndex": 594,
+ "updatedAt": "2026-07-26T09:24:06.929Z",
+ "currentIndex": 315,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -8787,7 +8787,6 @@
   },
   "PKGI-02604898": {
    "classifies": [
-    "color",
     "other"
    ],
    "note": "縦積み、どっちの色も確認要、保留\nBU-00982786は後期版",
