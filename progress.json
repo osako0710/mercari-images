@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:42:58.311Z",
- "currentIndex": 135,
+ "updatedAt": "2026-07-26T08:43:28.833Z",
+ "currentIndex": 173,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -4865,8 +4865,6 @@
   },
   "PKGI-02187952": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "縦積みで色違い\nブラック、ボーダー、ブラウン\nブラックのみ日焼けによりタンクトップ変色あり",
