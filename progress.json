@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T09:15:58.813Z",
- "currentIndex": 356,
+ "updatedAt": "2026-07-26T09:16:12.261Z",
+ "currentIndex": 60,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -1653,8 +1653,7 @@
   },
   "PKGI-02585580": {
    "classifies": [
-    "size",
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "オートミール",
