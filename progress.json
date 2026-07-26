@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T09:25:18.199Z",
- "currentIndex": 38,
+ "updatedAt": "2026-07-26T09:37:42.880Z",
+ "currentIndex": 656,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -17774,7 +17774,7 @@
   },
   "PKGI-02608636": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "舞妓ラー油セット",
