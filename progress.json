@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:32:35.031Z",
- "currentIndex": 334,
+ "updatedAt": "2026-07-26T08:34:42.813Z",
+ "currentIndex": 398,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -11113,8 +11113,6 @@
   },
   "PKGI-02223478": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "縦積みで色違い\n４つある\nバーガンディ×2、ブラック、ホワイト",
