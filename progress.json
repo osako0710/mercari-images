@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:47:47.494Z",
- "currentIndex": 385,
+ "updatedAt": "2026-07-26T08:48:07.364Z",
+ "currentIndex": 386,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -10754,8 +10754,6 @@
   },
   "PKGI-02195324": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "縦積みで色違い\nゴールドとシルバー",
