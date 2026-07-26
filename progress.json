@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:19:11.454Z",
- "currentIndex": 242,
+ "updatedAt": "2026-07-26T08:19:38.790Z",
+ "currentIndex": 243,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -6842,8 +6842,6 @@
   },
   "PKGI-02269021": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "縦積みで色違い\nブラックチェック、ピンクストライプ\n",
