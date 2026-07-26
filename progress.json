@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T09:45:57.802Z",
- "currentIndex": 234,
+ "updatedAt": "2026-07-26T09:46:13.826Z",
+ "currentIndex": 306,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -8542,7 +8542,7 @@
   },
   "PKGI-02603777": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "サックス",
