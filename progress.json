@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:13:54.585Z",
- "currentIndex": 442,
+ "updatedAt": "2026-07-26T08:14:38.452Z",
+ "currentIndex": 157,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -4419,8 +4419,6 @@
   },
   "PKGI-02233474": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "BU-00836095の箱にブラウン、ホワイトの二つある\n縦積み色違い\nBU-00811457に黒の1が1つある",
