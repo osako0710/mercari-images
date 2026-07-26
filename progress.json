@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:08:23.700Z",
- "currentIndex": 4,
+ "updatedAt": "2026-07-26T08:11:00.139Z",
+ "currentIndex": 29,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -790,7 +790,7 @@
   },
   "PKGI-01932167": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "ダークブラウン",
