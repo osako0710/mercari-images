@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:47:11.953Z",
- "currentIndex": 304,
+ "updatedAt": "2026-07-26T08:47:28.103Z",
+ "currentIndex": 329,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -9224,8 +9224,6 @@
   },
   "PKGI-02036028": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "縦積みで色違い\nホワイトとネイビー",
