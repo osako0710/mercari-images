@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T09:19:31.167Z",
- "currentIndex": 455,
+ "updatedAt": "2026-07-26T09:21:32.795Z",
+ "currentIndex": 1024,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -27040,7 +27040,7 @@
   },
   "PKGI-02600461": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "ストロール",
