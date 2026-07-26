@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:34:42.813Z",
- "currentIndex": 398,
+ "updatedAt": "2026-07-26T08:35:00.122Z",
+ "currentIndex": 170,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -4796,8 +4796,6 @@
   },
   "PKGI-02060721": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "BU-00836095が二つ、BU-00811460が二つある\nBU-00836095、BU-00811460はそれぞれライトベージュ、ライトグレー\n縦積み色違い",
