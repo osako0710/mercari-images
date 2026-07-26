@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T09:46:25.540Z",
- "currentIndex": 325,
+ "updatedAt": "2026-07-26T09:46:43.136Z",
+ "currentIndex": 364,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -10151,7 +10151,7 @@
   },
   "PKGI-02564562": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "ライトベージュ",
