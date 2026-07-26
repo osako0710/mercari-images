@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T08:11:00.139Z",
- "currentIndex": 29,
+ "updatedAt": "2026-07-26T08:13:54.585Z",
+ "currentIndex": 442,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -12288,8 +12288,6 @@
   },
   "PKGI-02068008": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "縦積みで色、サイズ違い\nBU-00811460に４つ入っている\nピンク、コールグレイ、ボーダーネイビー、ボーダーホワイト\nすべてサイズ0\nBU-00811457にターコイズ、ピンク、ボーダー白\nサイズ0",
