@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-26T03:56:03.045Z",
- "currentIndex": 133,
+ "updatedAt": "2026-07-26T03:57:48.611Z",
+ "currentIndex": 153,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -4308,8 +4308,7 @@
   },
   "PKGI-02016308": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "ブラック",
