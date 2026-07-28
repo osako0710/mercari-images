@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:34:10.539Z",
- "currentIndex": 774,
+ "updatedAt": "2026-07-28T12:34:35.844Z",
+ "currentIndex": 791,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -20880,9 +20880,10 @@
   "PKGI-02581149": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "Be Sweet単品Tバック",
