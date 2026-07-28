@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:01:24.704Z",
- "currentIndex": 43,
+ "updatedAt": "2026-07-28T12:01:39.231Z",
+ "currentIndex": 969,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -25776,7 +25776,7 @@
   },
   "PKGI-02618878": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "006 シトロネラ",
