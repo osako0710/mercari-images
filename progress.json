@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:51:33.369Z",
- "currentIndex": 308,
+ "updatedAt": "2026-07-28T11:51:47.952Z",
+ "currentIndex": 550,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -15125,7 +15125,7 @@
   },
   "PKGI-02590657": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "01 Cinderella Veil（シンデレラ・ヴェール）",
