@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:40:37.746Z",
- "currentIndex": 432,
+ "updatedAt": "2026-07-28T11:41:04.352Z",
+ "currentIndex": 20,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -533,8 +533,7 @@
   },
   "PKGI-02243618": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "ブローノ・ブチャラティ",
