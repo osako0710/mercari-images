@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T03:56:42.459Z",
+ "updatedAt": "2026-07-28T03:56:55.899Z",
  "currentIndex": 274,
  "results": {
   "PKGI-02599662": {
@@ -7700,8 +7700,6 @@
   },
   "PKGI-02576611": {
    "classifies": [
-    "color",
-    "size",
     "other"
    ],
    "note": "ページなし撮影必須\n7/28　撮影要",
