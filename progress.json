@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:44:52.403Z",
- "currentIndex": 1067,
+ "updatedAt": "2026-07-28T12:44:59.694Z",
+ "currentIndex": 1068,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -28335,8 +28335,7 @@
   },
   "PKGI-02623342": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "ST003闘魂",
