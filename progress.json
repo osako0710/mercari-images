@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:26:52.443Z",
- "currentIndex": 453,
+ "updatedAt": "2026-07-28T12:27:07.068Z",
+ "currentIndex": 533,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -12665,9 +12665,10 @@
   },
   "PKGI-02567824": {
    "classifies": [
-    "color"
+    "color",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "Mickey Mouse＆Minnie Mouse/ミッキーマウス＆ミニーマウス/相良刺繍 オーバーサイズニット　限定展開",
