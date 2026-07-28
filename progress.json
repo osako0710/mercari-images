@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:04:24.430Z",
- "currentIndex": 1097,
+ "updatedAt": "2026-07-28T12:05:13.811Z",
+ "currentIndex": 678,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -18467,7 +18467,7 @@
    "classifies": [
     "other"
    ],
-   "note": "概要不明",
+   "note": "概要不明\nエラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "マンガ (発売日: 2009年01月14日)",
