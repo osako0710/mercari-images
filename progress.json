@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:57:27.990Z",
- "currentIndex": 185,
+ "updatedAt": "2026-07-28T11:57:51.690Z",
+ "currentIndex": 186,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5257,9 +5257,10 @@
   "PKGI-02485284": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "ビューティーコットンコードポロ",
