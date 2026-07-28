@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:58:49.971Z",
- "currentIndex": 1044,
+ "updatedAt": "2026-07-28T11:59:20.680Z",
+ "currentIndex": 341,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -9613,9 +9613,10 @@
   "PKGI-02504649": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "ブークレストレッチクルーニット",
