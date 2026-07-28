@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:54:40.962Z",
- "currentIndex": 279,
+ "updatedAt": "2026-07-28T11:55:15.599Z",
+ "currentIndex": 361,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -10154,9 +10154,10 @@
   "PKGI-02550556": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等のため不明、保留",
    "color": "",
    "size": "",
    "name": "SCHOOL OF VISUAL COMEDY_T-SHIRT / スカルモチーフ サークルロゴ Tシャツ",
