@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T10:57:46.669Z",
- "currentIndex": 225,
+ "updatedAt": "2026-07-28T11:01:34.478Z",
+ "currentIndex": 459,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -12789,7 +12789,7 @@
    "classifies": [
     "other"
    ],
-   "note": "商品合ってる？",
+   "note": "商品合ってる？\n縦積みで、どちらもこれで合っているかわからないので保留",
    "color": "",
    "size": "",
    "name": "IRIS OUT / JANE DOE (???? ???)",
