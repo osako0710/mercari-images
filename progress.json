@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:13:45.942Z",
- "currentIndex": 76,
+ "updatedAt": "2026-07-28T11:14:00.097Z",
+ "currentIndex": 792,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -21309,8 +21309,7 @@
   },
   "PKGI-02625407": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "クリア",
