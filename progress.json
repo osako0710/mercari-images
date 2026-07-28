@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:30:03.934Z",
- "currentIndex": 1021,
+ "updatedAt": "2026-07-28T11:31:17.051Z",
+ "currentIndex": 88,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -2483,10 +2483,11 @@
   },
   "PKGI-02633705": {
    "classifies": [
+    "other",
     "color",
     "size"
    ],
-   "note": "",
+   "note": "ツールエラー等で抜けている可能性",
    "color": "",
    "size": "",
    "name": "HST Fume 1 #TI [NM62554]｜THE NORTH FACE",
