@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:41:23.667Z",
- "currentIndex": 450,
+ "updatedAt": "2026-07-28T11:41:37.028Z",
+ "currentIndex": 609,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -16652,8 +16652,7 @@
   },
   "PKGI-02396320": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "ワイン",
