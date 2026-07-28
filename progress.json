@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:25:55.299Z",
- "currentIndex": 652,
+ "updatedAt": "2026-07-28T11:26:40.360Z",
+ "currentIndex": 904,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -24161,9 +24161,9 @@
   },
   "PKGI-02633603": {
    "classifies": [
-    "color"
+    "other"
    ],
-   "note": "縦積みで色違い",
+   "note": "縦積みで色違い（カワセミ/ルリビタキ(♂)）",
    "color": "カワセミ/ルリビタキ(♂)",
    "size": "",
    "name": "Yamasanka / 山鳥のカラビナ",
