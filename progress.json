@@ -1,11 +1,11 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:10:25.325Z",
- "currentIndex": 81,
+ "updatedAt": "2026-07-28T12:11:34.648Z",
+ "currentIndex": 1,
  "results": {
   "PKGI-02599662": {
    "classifies": [
-    "other"
+    "ok"
    ],
    "note": "画像追加",
    "color": "",
