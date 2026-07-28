@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:20:14.796Z",
- "currentIndex": 410,
+ "updatedAt": "2026-07-28T11:21:26.487Z",
+ "currentIndex": 137,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -3897,8 +3897,7 @@
   },
   "PKGI-02628785": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "ベージュ",
@@ -12009,7 +12008,7 @@
   },
   "PKGI-02627807": {
    "classifies": [
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "",
@@ -12035,7 +12034,7 @@
   },
   "PKGI-02627808": {
    "classifies": [
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "",
