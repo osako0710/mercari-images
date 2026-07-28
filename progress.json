@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:25:18.744Z",
- "currentIndex": 249,
+ "updatedAt": "2026-07-28T12:25:50.255Z",
+ "currentIndex": 318,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -8917,7 +8917,7 @@
   },
   "PKGI-02619004": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "後期版",
