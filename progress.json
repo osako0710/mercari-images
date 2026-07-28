@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:42:23.982Z",
- "currentIndex": 740,
+ "updatedAt": "2026-07-28T11:42:42.695Z",
+ "currentIndex": 841,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -22541,8 +22541,7 @@
   },
   "PKGI-02396319": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": " ブラウンソノタ",
