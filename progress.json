@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T10:52:20.658Z",
- "currentIndex": 648,
+ "updatedAt": "2026-07-28T10:57:24.474Z",
+ "currentIndex": 247,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -6996,9 +6996,9 @@
   },
   "PKGI-02621942": {
    "classifies": [
-    "size"
+    "other"
    ],
-   "note": "",
+   "note": "縦積みで、すべて同じサイズがわからないので保留",
    "color": "",
    "size": "L",
    "name": "【予約】【METAL GEAR SOLID Δ × EDWIN】TIGER STRIPE T SHIRTS",
