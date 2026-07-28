@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:05:13.811Z",
- "currentIndex": 678,
+ "updatedAt": "2026-07-28T12:05:42.759Z",
+ "currentIndex": 918,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -24503,9 +24503,10 @@
   },
   "PKGI-02553124": {
    "classifies": [
-    "used"
+    "used",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "【買取】anan2484号増刊 スペシャルエディション 2026年 2/25号 [雑誌] (発売日: 2026年02月18日)",
