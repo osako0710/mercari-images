@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:36:55.844Z",
- "currentIndex": 961,
+ "updatedAt": "2026-07-28T11:37:14.212Z",
+ "currentIndex": 1079,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -28616,8 +28616,7 @@
   },
   "PKGI-02135801": {
    "classifies": [
-    "color",
-    "size"
+    "ok"
    ],
    "note": "",
    "color": "ジュルネ",
