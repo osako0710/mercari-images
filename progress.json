@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:39:13.335Z",
- "currentIndex": 813,
+ "updatedAt": "2026-07-28T12:40:35.419Z",
+ "currentIndex": 815,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -21895,10 +21895,11 @@
   },
   "PKGI-02623590": {
    "classifies": [
+    "other",
     "color",
     "size"
    ],
-   "note": "撮影要、サイズ90と95があるので、どう出品するか確認要",
+   "note": "撮影要、サイズ90と95があるので、どう出品するか確認要\nエラー等の為、不明により保留",
    "color": "中白",
    "size": "90、95",
    "name": "ベビー　７分丈パンツ（80～95cm・wiggle wiggle）(バースデイ)【予約】",
