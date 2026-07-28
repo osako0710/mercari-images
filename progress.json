@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:24:34.898Z",
- "currentIndex": 198,
+ "updatedAt": "2026-07-28T12:24:59.009Z",
+ "currentIndex": 203,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5715,9 +5715,10 @@
   },
   "PKGI-02373359": {
    "classifies": [
-    "color"
+    "color",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "ツルネ －つながりの一射－ アイコニック ヘアオブジェ マジェステ ＋ 簪\t～海外からご購入のお客様へ～",
