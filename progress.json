@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:55:15.599Z",
- "currentIndex": 361,
+ "updatedAt": "2026-07-28T11:56:11.817Z",
+ "currentIndex": 149,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -4227,9 +4227,10 @@
   "PKGI-02485286": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為不明、保留",
    "color": "",
    "size": "",
    "name": "コンフォートリラックスレギュラーシャツ",
