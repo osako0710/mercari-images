@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T03:56:55.899Z",
- "currentIndex": 274,
+ "updatedAt": "2026-07-28T03:57:16.418Z",
+ "currentIndex": 273,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5583,9 +5583,9 @@
   },
   "PKGI-02576612": {
    "classifies": [
-    "size",
     "other",
-    "color"
+    "color",
+    "size"
    ],
    "note": "ページなし撮影必須\n7/28 撮影要",
    "color": "ライトグレー",
