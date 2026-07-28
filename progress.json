@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T02:34:18.474Z",
- "currentIndex": 745,
+ "updatedAt": "2026-07-28T02:38:34.396Z",
+ "currentIndex": 98,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -2735,7 +2735,7 @@
    "classifies": [
     "used"
    ],
-   "note": "撮影必須",
+   "note": "撮影必須\n7/28 撮影抜け？",
    "color": "",
    "size": "",
    "name": "(野菜ジュース) [PSA8] Pok?mon Card R Dan Moltres LV.26 Old Back 1枚",
