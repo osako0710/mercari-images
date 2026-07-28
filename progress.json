@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:42:23.075Z",
- "currentIndex": 893,
+ "updatedAt": "2026-07-28T12:43:00.164Z",
+ "currentIndex": 917,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -24483,9 +24483,10 @@
   },
   "PKGI-02606154": {
    "classifies": [
-    "color"
+    "color",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "FUJI ROCK '26 リストバンドキーホルダー",
