@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T02:38:34.396Z",
- "currentIndex": 98,
+ "updatedAt": "2026-07-28T02:40:36.577Z",
+ "currentIndex": 379,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -10539,10 +10539,9 @@
   },
   "PKGI-02562177": {
    "classifies": [
-    "color",
-    "size"
+    "other"
    ],
-   "note": "",
+   "note": "撮影要",
    "color": "",
    "size": "",
    "name": "サイケ(All-Over Print T-Shirt)",
