@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:18:09.915Z",
- "currentIndex": 17,
+ "updatedAt": "2026-07-28T12:19:40.319Z",
+ "currentIndex": 30,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -834,9 +834,10 @@
   },
   "PKGI-02563823": {
    "classifies": [
-    "color"
+    "color",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "HONDA Collab Cub Pants / ホンダコラボ カブパンツ",
