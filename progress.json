@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:07:22.417Z",
- "currentIndex": 816,
+ "updatedAt": "2026-07-28T12:07:42.961Z",
+ "currentIndex": 861,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -23063,8 +23063,7 @@
   },
   "PKGI-02646071": {
    "classifies": [
-    "size",
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "中桃",
