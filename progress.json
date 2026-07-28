@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T09:00:08.855Z",
- "currentIndex": 76,
+ "updatedAt": "2026-07-28T09:07:24.335Z",
+ "currentIndex": 410,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -2149,9 +2149,7 @@
   },
   "PKGI-02629745": {
    "classifies": [
-    "color",
-    "size",
-    "other"
+    "ok"
    ],
    "note": "撮影要",
    "color": "【遠州綿紬】縞紬 S-69 「Beautiful Girl」＆ 別珍風衿",
@@ -2164,7 +2162,12 @@
     "PKGI-02629745_1.jpg",
     "PKGI-02629745_2.jpg",
     "PKGI-02629745_3.jpg",
-    "PKGI-02629745_4.jpg"
+    "PKGI-02629745_4.jpg",
+    "PKGI-02629745_5.jpg",
+    "PKGI-02629745_6.jpg",
+    "PKGI-02629745_7.jpg",
+    "PKGI-02629745_8.jpg",
+    "PKGI-02629745_9.jpg"
    ],
    "pkgiList": [
     "PKGI-02629745"
