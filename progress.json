@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:06:04.202Z",
- "currentIndex": 80,
+ "updatedAt": "2026-07-28T12:06:20.254Z",
+ "currentIndex": 714,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -19321,7 +19321,7 @@
   },
   "PKGI-02576441": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "",
    "color": "麗日　お茶子",
