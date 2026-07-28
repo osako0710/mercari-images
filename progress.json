@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:52:41.898Z",
- "currentIndex": 322,
+ "updatedAt": "2026-07-28T11:53:30.947Z",
+ "currentIndex": 502,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -13893,9 +13893,10 @@
   },
   "PKGI-02488828": {
    "classifies": [
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "エラーにより、サイズ不明の為保留",
    "color": "",
    "size": "",
    "name": "DRY-FIT Logo T-shirt - White 【CD Standard】",
