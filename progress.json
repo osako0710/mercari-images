@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:19:40.319Z",
- "currentIndex": 30,
+ "updatedAt": "2026-07-28T12:20:25.339Z",
+ "currentIndex": 74,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -2030,9 +2030,10 @@
   },
   "PKGI-02580177": {
    "classifies": [
-    "color"
+    "color",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "【Astromeda】 ゲーミングPCケース",
