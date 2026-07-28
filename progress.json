@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T11:53:55.641Z",
- "currentIndex": 886,
+ "updatedAt": "2026-07-28T11:54:40.962Z",
+ "currentIndex": 279,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -7891,9 +7891,10 @@
   "PKGI-02557079": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "",
+   "note": "エラー等により不明のため保留",
    "color": "",
    "size": "",
    "name": "FULL ZIP PLAID SHIRT",
