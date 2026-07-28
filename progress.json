@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T03:56:08.733Z",
- "currentIndex": 199,
+ "updatedAt": "2026-07-28T03:56:42.459Z",
+ "currentIndex": 274,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -7701,9 +7701,10 @@
   "PKGI-02576611": {
    "classifies": [
     "color",
-    "size"
+    "size",
+    "other"
    ],
-   "note": "ページなし撮影必須",
+   "note": "ページなし撮影必須\n7/28　撮影要",
    "color": "オフホワイト",
    "size": "38",
    "name": "〈SELECT〉レースコンビタンクトップ 610-25079",
