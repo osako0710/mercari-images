@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:40:35.419Z",
- "currentIndex": 815,
+ "updatedAt": "2026-07-28T12:40:47.025Z",
+ "currentIndex": 818,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -21971,7 +21971,7 @@
   },
   "PKGI-02612796": {
    "classifies": [
-    "color"
+    "ok"
    ],
    "note": "ページなし",
    "color": "桜羽エマ",
