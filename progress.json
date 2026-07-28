@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:14:37.785Z",
- "currentIndex": 10,
+ "updatedAt": "2026-07-28T12:18:09.915Z",
+ "currentIndex": 17,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -462,8 +462,10 @@
    ]
   },
   "PKGI-02613504": {
-   "classifies": [],
-   "note": "サイズ確認",
+   "classifies": [
+    "other"
+   ],
+   "note": "サイズ確認\nエラー等の為、不明により保留",
    "color": "",
    "size": "",
    "name": "RM-JL2444/ホワイト",
@@ -471,9 +473,15 @@
    "genTitle": "",
    "genDesc": "",
    "imageNames": [],
-   "pkgiList": [],
-   "bundlingIds": [],
-   "shelfNos": []
+   "pkgiList": [
+    "PKGI-02613504"
+   ],
+   "bundlingIds": [
+    "BU-00985988"
+   ],
+   "shelfNos": [
+    "ROG-001-1-1"
+   ]
   },
   "PKGI-02611787": {
    "classifies": [
