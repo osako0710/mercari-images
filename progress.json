@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-07-28T12:48:38.731Z",
- "currentIndex": 740,
+ "updatedAt": "2026-08-04T05:00:22.390Z",
+ "currentIndex": 201,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5682,9 +5682,9 @@
   },
   "PKGI-02593324": {
    "classifies": [
-    "ok"
+    "other"
    ],
-   "note": "",
+   "note": "BU-00978289二個縦積み\n片方がホワイトで片方がブルー",
    "color": "",
    "size": "",
    "name": "葬送のフリーレン アイコニック ヘアオブジェ マジェステ ＋ 簪\t～海外からご購入のお客様へ～",
@@ -5697,7 +5697,10 @@
     "PKGI-02593324_3.jpg",
     "PKGI-02593324_4.jpg",
     "PKGI-02593324_5.jpg",
-    "PKGI-02593324_6.jpg"
+    "PKGI-02593324_6.jpg",
+    "PKGI-02593324_7.jpg",
+    "PKGI-02593324_8.jpg",
+    "PKGI-02593324_9.jpg"
    ],
    "pkgiList": [
     "PKGI-02593324",
