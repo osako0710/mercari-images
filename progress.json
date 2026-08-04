@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updatedAt": "2026-08-04T05:15:01.333Z",
- "currentIndex": 202,
+ "updatedAt": "2026-08-04T05:15:52.041Z",
+ "currentIndex": 201,
  "results": {
   "PKGI-02599662": {
    "classifies": [
@@ -5682,7 +5682,8 @@
   },
   "PKGI-02593324": {
    "classifies": [
-    "other"
+    "other",
+    "color"
    ],
    "note": "BU-00978289二個縦積み\n片方がホワイトで片方がブルー\nBU-00979377はブルー",
    "color": "",
